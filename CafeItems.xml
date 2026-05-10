@@ -714,6 +714,8 @@
 <wod id="1505" n="Marketplace" g="Background" t="Normalnight" />
 <wod id="1506" n="Cafe" g="Background" t="Villagespring" />
 <wod id="1507" n="Marketplace" g="Background" t="Normalspring" />
+<wod id="1509" n="Cafe" g="Background" t="Villagesummer" />
+<wod id="1510" n="Static" g="Background" t="Villagenightsummer" />
 <wod id="1601" n="Basic" g="Moving" t="-" />
 <wod id="1602" n="Npcwaiter" g="Moving" t="-" />
 <wod id="1603" n="Plateholder" g="Moving" t="-" />
