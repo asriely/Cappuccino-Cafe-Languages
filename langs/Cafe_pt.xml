@@ -201,26 +201,26 @@ Se você estocá-la, as porções existentes serão perdidas!" />
 		<text id="cookstep_strawberryjuice2" name="Batendo o suco" />
 		<text id="cookstep_cappuccino1" name="Preparando a mistura" />
 		<text id="cookstep_cappuccino2" name="Esquentando tudo" />
-		<text id="cookstep_duckalcitrus1" name="Roasting duck" />
-		<text id="cookstep_duckalcitrus2" name="Adding citrus glaze" />
-		<text id="cookstep_ducktatters1" name="Frying ingredients" />
-		<text id="cookstep_ducktatters2" name="Mixing dish" />
-		<text id="cookstep_langos1" name="Making sauce" />
-		<text id="cookstep_langos2" name="Cooling sauce" />
-		<text id="cookstep_nasilemak1" name="Cooking rice" />
-		<text id="cookstep_nasilemak2" name="Plating dish" />
-		<text id="cookstep_citrusjuice1" name="Squeezing citrus" />
-		<text id="cookstep_citrusjuice2" name="Blending juice" />
-		<text id="cookstep_carrotcake1" name="Mixing batter" />
-		<text id="cookstep_carrotcake2" name="Baking cake" />
-		<text id="cookstep_carrotjuice1" name="Blending carrots" />
-		<text id="cookstep_carrotjuice2" name="Pouring juice" />
-		<text id="cookstep_francesinha1" name="Building sandwich" />
-		<text id="cookstep_francesinha2" name="Melting cheese" />
-		<text id="cookstep_dorayaki1" name="Prepping filling" />
-		<text id="cookstep_dorayaki2" name="Letting it cool" />
-		<text id="cookstep_tiramisu1" name="Layering dessert" />
-		<text id="cookstep_tiramisu2" name="Chilling tiramisu" />
+		<text id="cookstep_duckalcitrus1" name="Assando pato" />
+		<text id="cookstep_duckalcitrus2" name="Adicionando limão" />
+		<text id="cookstep_ducktatters1" name="Fritando tudo" />
+		<text id="cookstep_ducktatters2" name="Montando prato" />
+		<text id="cookstep_langos1" name="Fazendo molho" />
+		<text id="cookstep_langos2" name="Esfriando molho" />
+		<text id="cookstep_nasilemak1" name="Cozinhando Arroz" />
+		<text id="cookstep_nasilemak2" name="Montando prato" />
+		<text id="cookstep_citrusjuice1" name="Espremendo limões" />
+		<text id="cookstep_citrusjuice2" name="Fazendo suco" />
+		<text id="cookstep_carrotcake1" name="Misturando a massa" />
+		<text id="cookstep_carrotcake2" name="Assando bolo" />
+		<text id="cookstep_carrotjuice1" name="Triturando cenouras" />
+		<text id="cookstep_carrotjuice2" name="Servindo suco" />
+		<text id="cookstep_francesinha1" name="Montando sanduíche" />
+		<text id="cookstep_francesinha2" name="Derretendo queijo" />
+		<text id="cookstep_dorayaki1" name="Preparando recheio" />
+		<text id="cookstep_dorayaki2" name="Deixando esfriar" />
+		<text id="cookstep_tiramisu1" name="Fazendo camadas" />
+		<text id="cookstep_tiramisu2" name="Montando Tiramisu" />
 		<text id="cookstep_blackforestcherrycake1" name="Misturando ingredientes" />
 		<text id="cookstep_blackforestcherrycake2" name="Assando bolo" />
 		<text id="cookstep_cheeseburger1" name="Fritando carne moída" />
@@ -1081,47 +1081,47 @@ Apenas disponível por tempo limitado!" />
 		<text id="preparestep_strawberryjuice_strawberry" name="Lavar morangos" />
 		<text id="preparestep_strawberryjuice_sugar" name="Adicionar açúcar" />
 		<text id="preparestep_strawberryjuice_vanilla" name="Adicionar baunilha" />
-		<text id="preparestep_cappuccino_cookfest" name="Pensar no próximo Cookfest" />
-		<text id="preparestep_duckalcitrus_duck" name="Prepare duck" />
-		<text id="preparestep_duckalcitrus_butter" name="Melt butter" />
-		<text id="preparestep_duckalcitrus_onion" name="Chop onions" />
-		<text id="preparestep_duckalcitrus_citrus" name="Squeeze citrus" />
-		<text id="preparestep_ducktatters_duck" name="Prepare duck" />
-		<text id="preparestep_ducktatters_potato" name="Chop potatoes" />
-		<text id="preparestep_ducktatters_pasta" name="Boil pasta" />
-		<text id="preparestep_ducktatters_oil" name="Heat oil" />
-		<text id="preparestep_langos_flour" name="Sift flour" />
-		<text id="preparestep_langos_eggs" name="Crack eggs" />
-		<text id="preparestep_langos_cream" name="Whip cream" />
-		<text id="preparestep_langos_garlic" name="Press garlic" />
-		<text id="preparestep_langos_cheese" name="Grate cheese" />
-		<text id="preparestep_nasilemak_rice" name="Wash rice" />
-		<text id="preparestep_nasilemak_eggs" name="Boil eggs" />
-		<text id="preparestep_nasilemak_onion" name="Chop onions" />
-		<text id="preparestep_nasilemak_beans" name="Cook beans" />
-		<text id="preparestep_nasilemak_cucumber" name="Slice cucumbers" />
-		<text id="preparestep_citrusjuice_citrus" name="Squeeze citrus" />
-		<text id="preparestep_citrusjuice_sugar" name="Measure sugar" />
-		<text id="preparestep_carrotcake_carrots" name="Grate carrots" />
-		<text id="preparestep_carrotcake_flour" name="Sift flour" />
-		<text id="preparestep_carrotcake_whitechocolat" name="Chop white chocolate" />
-		<text id="preparestep_carrotcake_chocolate" name="Melt chocolate" />
-		<text id="preparestep_carrotcake_milk" name="Measure milk" />
-		<text id="preparestep_carrotjuice_carrots" name="Peel carrots" />
-		<text id="preparestep_carrotjuice_sugar" name="Measure sugar" />
-		<text id="preparestep_francesinha_cheese" name="Slice cheese" />
-		<text id="preparestep_francesinha_eggs" name="Fry eggs" />
-		<text id="preparestep_francesinha_mincemeat" name="Cook meat" />
-		<text id="preparestep_francesinha_sausages" name="Slice sausages" />
-		<text id="preparestep_francesinha_onion" name="Chop onions" />
-		<text id="preparestep_dorayaki_flour" name="Sift flour" />
-		<text id="preparestep_dorayaki_eggs" name="Crack eggs" />
-		<text id="preparestep_dorayaki_beans" name="Mash beans" />
-		<text id="preparestep_dorayaki_sugar" name="Measure sugar" />
-		<text id="preparestep_tiramisu_chocolate" name="Grate chocolate" />
-		<text id="preparestep_tiramisu_cookies" name="Soak cookies" />
-		<text id="preparestep_tiramisu_quark" name="Whip quark" />
-		<text id="preparestep_tiramisu_eggs" name="Separate eggs" />
+		<text id="preparestep_cappuccino_cookfest" name="Pensar na próximo Cookfest" />
+		<text id="preparestep_duckalcitrus_duck" name="Preparar pato" />
+		<text id="preparestep_duckalcitrus_butter" name="Derreter manteiga" />
+		<text id="preparestep_duckalcitrus_onion" name="Cortar cebola" />
+		<text id="preparestep_duckalcitrus_citrus" name="Colocar limão" />
+		<text id="preparestep_ducktatters_duck" name="Preparar pato" />
+		<text id="preparestep_ducktatters_potato" name="Cortar batatas" />
+		<text id="preparestep_ducktatters_pasta" name="Cozinhar macarrão" />
+		<text id="preparestep_ducktatters_oil" name="Aquecer óleo" />
+		<text id="preparestep_langos_flour" name="Peneirar farinha" />
+		<text id="preparestep_langos_eggs" name="Quebrar ovos" />
+		<text id="preparestep_langos_cream" name="Mexer cereme" />
+		<text id="preparestep_langos_garlic" name="Espremer alho" />
+		<text id="preparestep_langos_cheese" name="Ralar queijo" />
+		<text id="preparestep_nasilemak_rice" name="Lavar arroz" />
+		<text id="preparestep_nasilemak_eggs" name="Cozinhar ovos" />
+		<text id="preparestep_nasilemak_onion" name="Cortar cebolas" />
+		<text id="preparestep_nasilemak_beans" name="Cozinhar feijões" />
+		<text id="preparestep_nasilemak_cucumber" name="Cortar pepino" />
+		<text id="preparestep_citrusjuice_citrus" name="Espremer frutas" />
+		<text id="preparestep_citrusjuice_sugar" name="Medir açúcar" />
+		<text id="preparestep_carrotcake_carrots" name="Ralar cenouras" />
+		<text id="preparestep_carrotcake_flour" name="Adicionar farinha" />
+		<text id="preparestep_carrotcake_whitechocolat" name="Derreter chocolate branco" />
+		<text id="preparestep_carrotcake_chocolate" name="Jogar chocolate" />
+		<text id="preparestep_carrotcake_milk" name="Medir leite" />
+		<text id="preparestep_carrotjuice_carrots" name="Descascar cenouras" />
+		<text id="preparestep_carrotjuice_sugar" name="Adoçar" />
+		<text id="preparestep_francesinha_cheese" name="Cortar queijo" />
+		<text id="preparestep_francesinha_eggs" name="Fritar ovos" />
+		<text id="preparestep_francesinha_mincemeat" name="Cozinhar carne" />
+		<text id="preparestep_francesinha_sausages" name="Cortar linguiças" />
+		<text id="preparestep_francesinha_onion" name="Picar cebolas" />
+		<text id="preparestep_dorayaki_flour" name="Espalhar farinha" />
+		<text id="preparestep_dorayaki_eggs" name="Quebrar ovos" />
+		<text id="preparestep_dorayaki_beans" name="Amassar feijões" />
+		<text id="preparestep_dorayaki_sugar" name="Adoçar" />
+		<text id="preparestep_tiramisu_chocolate" name="Ralar chocolate" />
+		<text id="preparestep_tiramisu_cookies" name="Molhar biscoitos" />
+		<text id="preparestep_tiramisu_quark" name="Mexer o iorgute" />
+		<text id="preparestep_tiramisu_eggs" name="Separar ovos" />
 		<text id="preparestep_cappuccino_cinnamon" name="Polvilhar canela" />
 		<text id="preparestep_corncake_cinnamon" name="Moer canela" />
 		<text id="preparestep_feijoada_beans" name="Cozinhar feijões" />
@@ -1139,9 +1139,9 @@ Apenas disponível por tempo limitado!" />
 		<text id="preparestep_cheesefondue_flour" name="Peneirar farinha" />
 		<text id="preparestep_cheesefondue_garlic" name="Espremer alho" />
 		<text id="preparestep_cherriecake_cherries" name="Cozinhar cerejas" />
-		<text id="preparestep_cherriecake_cream" name="bater creme" />
+		<text id="preparestep_cherriecake_cream" name="Bater creme" />
 		<text id="preparestep_cherriecake_flour" name="Peneirar farinha" />
-		<text id="preparestep_cherriecake_sugar" name="pesar açúcar" />
+		<text id="preparestep_cherriecake_sugar" name="Pesar açúcar" />
 		<text id="preparestep_cherrycompote_cherries" name="Descaroçar cerejas" />
 		<text id="preparestep_cherrycompote_sugar" name="caramelizar açúcar" />
 		<text id="preparestep_chickenburger_chicken" name="Desossar galinha" />
@@ -1156,7 +1156,7 @@ Apenas disponível por tempo limitado!" />
 		<text id="preparestep_chickensoup_chicken" name="cortar frango" />
 		<text id="preparestep_chickensoup_onion" name="picar cebolas" />
 		<text id="preparestep_chickensoup_pasta" name="Pesar macarrão" />
-		<text id="preparestep_chiliconcarne_bacon" name="fatiar banco" />
+		<text id="preparestep_chiliconcarne_bacon" name="fatiar bacon" />
 		<text id="preparestep_chiliconcarne_beans" name="pôr feijão de molho" />
 		<text id="preparestep_chiliconcarne_mincemeat" name="Temperar carne moída" />
 		<text id="preparestep_chiliconcarne_onion" name="picar cebolas" />
@@ -1401,16 +1401,16 @@ Apenas disponível por tempo limitado!" />
 		<text id="preparestep_whitechocmousse_whitechocolat" name="derreter chocolate" />
 	</preparestep>
 	<preparestep_fancy>
-		<text id="preparestep_duckalcitrus_cinnamon" name="Sprinkle cinnamon" />
-		<text id="preparestep_ducktatters_parsley" name="Chop parsley" />
-		<text id="preparestep_langos_parsley" name="Chop parsley" />
-		<text id="preparestep_nasilemak_chili" name="Chop chili" />
-		<text id="preparestep_citrusjuice_vanilla" name="Scrape out vanilla" />
-		<text id="preparestep_carrotcake_vanilla" name="Scrape out vanilla" />
-		<text id="preparestep_carrotjuice_vanilla" name="Scrape out vanilla" />
-		<text id="preparestep_francesinha_chili" name="Chop chili" />
-		<text id="preparestep_dorayaki_vanilla" name="Scrape out vanilla" />
-		<text id="preparestep_tiramisu_vanilla" name="Scrape out vanilla" />
+		<text id="preparestep_duckalcitrus_cinnamon" name="Moer canela" />
+		<text id="preparestep_ducktatters_parsley" name="Picar salsinha" />
+		<text id="preparestep_langos_parsley" name="Picar salsinha" />
+		<text id="preparestep_nasilemak_chili" name="Picar chili" />
+		<text id="preparestep_citrusjuice_vanilla" name="Raspar baunhilha" />
+		<text id="preparestep_carrotcake_vanilla" name="Raspar baunhilha" />
+		<text id="preparestep_carrotjuice_vanilla" name="Raspar baunhilha" />
+		<text id="preparestep_francesinha_chili" name="Picar chili" />
+		<text id="preparestep_dorayaki_vanilla" name="Raspar baunhilha" />
+		<text id="preparestep_tiramisu_vanilla" name="Raspar baunhilha" />
 		<text id="preparestep_bananasplit_vanilla" name="raspar baunilha" />
 		<text id="preparestep_blackforestcherrycake_vanilla" name="Raspar baunilha" />
 		<text id="preparestep_pizzasalad_chili" name="Picar Chili" />
@@ -1511,16 +1511,16 @@ Apenas disponível por tempo limitado!" />
 		<text id="recipe_cherryjuice" name="Suco de Cereja" />
 		<text id="recipe_strawberryjuice" name="Suco de Morango" />
 		<text id="recipe_cappuccino" name="Cappuccino" />
-		<text id="recipe_duckalcitrus" name="Duck à l&apos;Citrus" />
-		<text id="recipe_ducktatters" name="Duck with Pasta Taters" />
-		<text id="recipe_langos" name="Lángos" />
-		<text id="recipe_nasilemak" name="Nasi Lemak" />
-		<text id="recipe_citrusjuice" name="Citrus Juice" />
-		<text id="recipe_carrotcake" name="Carrot Cake" />
-		<text id="recipe_carrotjuice" name="Carrot Juice" />
-		<text id="recipe_francesinha" name="Francesinha" />
+		<text id="recipe_duckalcitrus" name="Pato com Frutas Cítricas" />
+		<text id="recipe_ducktatters" name="Pato com Pedaços de Macarrão" />
+		<text id="recipe_langos" name="Langos" />
+		<text id="recipe_nasilemak" name="Arroz da Malásia" />
+		<text id="recipe_citrusjuice" name="Limonada" />
+		<text id="recipe_carrotcake" name="Bolo de Cenoura" />
+		<text id="recipe_carrotjuice" name="Suco de Cenoura" />
+		<text id="recipe_francesinha" name="Sanduíche Francesinha" />
 		<text id="recipe_dorayaki" name="Dorayaki" />
-		<text id="recipe_tiramisu" name="Tiramisù" />
+		<text id="recipe_tiramisu" name="Tiramisu" />
 		<text id="recipe_beefstew" name="Carne Ensopada" />
 		<text id="recipe_blackforestcherrycake" name="Bolo Floresta Negra" />
 		<text id="recipe_cheeseburger" name="X-Burger" />
@@ -1559,7 +1559,7 @@ Apenas disponível por tempo limitado!" />
 		<text id="recipe_mexicansalad" name="Salada de Feijão Mexicana" />
 		<text id="recipe_minestrone" name="Minestrone" />
 		<text id="recipe_mixedsalad" name="Salada Mista" />
-		<text id="recipe_nasigoreng" name="Arroz Frito com Frango" />
+		<text id="recipe_nasigoreng" name="Arroz da Indonésia" />
 		<text id="recipe_newyorkcheesecake" name="Cheesecake Nova York" />
 		<text id="recipe_noodlesalad" name="Salada de Macarrão" />
 		<text id="recipe_omelette" name="Omelete" />
