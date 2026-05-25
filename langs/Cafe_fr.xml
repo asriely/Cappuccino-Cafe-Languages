@@ -1012,7 +1012,7 @@
 		<text id="preparestep_chickenburger_chicken" name="Découper la poule" />
 		<text id="preparestep_chickenburger_cucumber" name="Couper le cocombre" />
 		<text id="preparestep_chickenburger_flour" name="Tamiser la farine" />
-		<text id="preparestep_spanishomelette_parsley" name="Chop parsley" />
+		<text id="preparestep_spanishomelette_parsley" name="Hacher le persil" />
 		&gt;
 		<text id="preparestep_sausagepasta_pasta" name="Cuire les pâtes" />
 		<text id="preparestep_sausagepasta_sausages" name="Couper les saucisses" />
@@ -1470,7 +1470,6 @@
 		<text id="preparestep_whitechoccheesecake_vanilla" name="Ecosser la vanille" />
 		<text id="preparestep_whitechocmousse_vanilla" name="Écosser la vanille" />
 		<text id="preparestep_pizzasalad_chili" name="Couper le chili" />
-		<text id="preparestep_spanishomelette_parsley" name="Hacher le persil" />
 	</preparestep_fancy>
 	<recipe>
 		<text id="recipe_bananasplit" name="Banana split" />
