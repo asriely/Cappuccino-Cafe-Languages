@@ -424,45 +424,45 @@ Se você estocá-la, as porções existentes serão perdidas!" />
 		<text id="coop_title_7" name="MERENDA ESCOLAR CANCELADA" />
 		<text id="coop_title_8" name="FESTA DE ANIVERSÁRIO" />
 		<text id="coop_title_9" name="BUFFET ITALIANO" />
-		<text id="coop_title_16" name="MORNING RUSH!" />
-		<text id="coop_desc_short_16" name="Start the day right!" />
-		<text id="coop_desc_long_16" name="Chef cupcakekittycat8 will host a big breakfast at the Marketplace. Can you provide some of what will be served?" />
-		<text id="coop_title_17" name="POST-LUNCH DESSERTS" />
-		<text id="coop_desc_short_17" name="Craving sweets are we?" />
-		<text id="coop_desc_long_17" name="Chef Gabriel served a salty lunch and the costumers are craving many sweets! Help out and sweeten the day!" />
-		<text id="coop_title_18" name="FOOD CRITIC VISIT!" />
-		<text id="coop_desc_short_18" name="Cook to impress!" />
-		<text id="coop_desc_long_18" name="Chef cupcakekittycat8 invited a food critic to visit your Café and he has a refined taste! It is time to cook!" />
+		<text id="coop_title_16" name="BOM DIA!" />
+		<text id="coop_desc_short_16" name="Vamos acordar bem!" />
+		<text id="coop_desc_long_16" name="Cupcakekittycat8 vai oferecer um grande café da manhã no Mercado. Você pode fornecer parte do que será servido?" />
+		<text id="coop_title_17" name="SOBREMESAS PÓS-ALMOÇO" />
+		<text id="coop_desc_short_17" name="Está com vontade de doces?" />
+		<text id="coop_desc_long_17" name="O chef Gabriel serviu um almoço salgado e os clientes estão desejando doces! Ajude e deixe o dia mais doce!" />
+		<text id="coop_title_18" name="VISITA DO CRÍTICO DE COMIDA!" />
+		<text id="coop_desc_short_18" name="Cozinhe para impressionar!" />
+		<text id="coop_desc_long_18" name="Cupcakekittycat8 convidou um crítico de comida para visitar seu Café e ele tem um paladar refinado! É hora de cozinhar!" />
 		<text id="coop_title_19" name="LAN PARTY!" />
-		<text id="coop_desc_short_19" name="Fast food for fast games!" />
-		<text id="coop_desc_long_19" name="Chef Surfguiger5 decided to join a LAN party and was tasked with bringing the food. The attendees want a lot, though! Help out!" />
-		<text id="coop_title_20" name="LATE NIGHT DRIVE THRU" />
-		<text id="coop_desc_short_20" name="A quick dinner for a long day!" />
-		<text id="coop_desc_long_20" name="Chef Patawka opened a drive-thru and is willing to share profits with anyone that helps provide food for it. Participate!" />
-		<text id="coop_title_21" name="FIT FOOD ONLY!" />
-		<text id="coop_desc_short_21" name="It&apos;s time to eat well!" />
-		<text id="coop_desc_long_21" name="Chef Surfguiger5 learned about the craze of Triple Omelettes and is concerned about weight gain. Cook healthy food to prove that your Café is healthy too!" />
-		<text id="coop_title_22" name="HOTEL BRUNCH" />
-		<text id="coop_desc_short_22" name="Want a quick bite?" />
-		<text id="coop_desc_long_22" name="Chef Surfguiger5 was asked by the local hotel to provide food for a brunch. However, the stoves broke and it&apos;s up to you to help! Profits will be shared." />
-		<text id="coop_title_23" name="BRAZILIAN WAY" />
-		<text id="coop_desc_short_23" name="Enjoy what Brazil has to offer!" />
-		<text id="coop_desc_long_23" name="Chef Surfguiger5 wants everyone to taste Brazilian food. Cook it!" />
-		<text id="coop_title_24" name="THE CARB COUNTER" />
-		<text id="coop_desc_short_24" name="An energy refill!" />
-		<text id="coop_desc_long_24" name="The local gym asked chef Artemis to supply dishes rich in carbs to keep the clients energized. Help out to earn your share too!" />
-		<text id="coop_title_25" name="WEDDING TASTING" />
-		<text id="coop_desc_short_25" name="A marriage is coming!" />
-		<text id="coop_desc_long_25" name="Chef Kvmxl said that the Café Lady and the Muffin Man are getting married! It was said that they will pay nicely for any Café that has their favorite food. Are the rumors true?" />
-		<text id="coop_title_26" name="DINNER BUFFET" />
-		<text id="coop_desc_short_26" name="Eat up!" />
-		<text id="coop_desc_long_26" name="Chef Cupcakekittycat8 wants a dinner with plenty of food. Help out!" />
-		<text id="coop_title_27" name="OISH-SOME" />
-		<text id="coop_desc_short_27" name="So great!" />
-		<text id="coop_desc_long_27" name="Chef Nao wants to serve food for an anime convention happening at the Café next door. Give a hand!" />
-		<text id="coop_title_28" name="COCOANFESSION" />
-		<text id="coop_desc_short_28" name="The true love is Chocolate!" />
-		<text id="coop_desc_long_28" name="Chef Nao wants to popularize chocolate dishes around the neighborhood and will pay for it. Why not participate?" />
+		<text id="coop_desc_short_19" name="Fast food para jogos rápidos!" />
+		<text id="coop_desc_long_19" name="O chef Surfguiger5 decidiu participar de uma LAN party e ficou responsável por levar a comida. Mas os participantes querem muita coisa! Ajude!" />
+		<text id="coop_title_20" name="DRIVE-THRU TARDE DA NOITE" />
+		<text id="coop_desc_short_20" name="Um jantar rápido para um longo dia!" />
+		<text id="coop_desc_long_20" name="Patawka abriu um drive-thru e está disposta a dividir os lucros com quem ajudar a fornecer comida para ela. Participe!" />
+		<text id="coop_title_21" name="APENAS COMIDA FIT!" />
+		<text id="coop_desc_short_21" name="É hora de comer bem!" />
+		<text id="coop_desc_long_21" name="O chef Surfguiger5 soube da febre dos Omeletes Triplos e está preocupado com o ganho de peso. Cozinhe comida saudável para provar que seu Café também é saudável!" />
+		<text id="coop_title_22" name="BRUNCH DE HOTEL" />
+		<text id="coop_desc_short_22" name="Quer um lanche rápido?" />
+		<text id="coop_desc_long_22" name="Pediram ao chef Surfguiger5 que fornecesse comida para um brunch no hotel local. No entanto, os fogões quebraram e cabe a você ajudar! Os lucros serão divididos." />
+		<text id="coop_title_23" name="JEITINHO BRASILEIRO" />
+		<text id="coop_desc_short_23" name="Aproveite o que o Brasil tem a oferecer!" />
+		<text id="coop_desc_long_23" name="O chef Surfguiger5 quer que todos experimentem a comida brasileira. Vamos cozinhar!" />
+		<text id="coop_title_24" name="CONTANDO CARBOIDRATOS" />
+		<text id="coop_desc_short_24" name="Uma recarga de energia!" />
+		<text id="coop_desc_long_24" name="A academia local pediu à chef Artemis que fornecesse pratos ricos em carboidratos para manter os clientes energizados. Ajude para ganhar sua parte também!" />
+		<text id="coop_title_25" name="DEGUSTAÇÃO DE CASAMENTO" />
+		<text id="coop_desc_short_25" name="Um casamento está chegando!" />
+		<text id="coop_desc_long_25" name="Kvmxl disse que a Moça do Café e o Homem-Muffin vão se casar! Disseram que eles pagarão muito bem para qualquer Café que tiver a comida favorita deles. Será que os rumores são verdadeiros?" />
+		<text id="coop_title_26" name="BUFFET DE JANTAR" />
+		<text id="coop_desc_short_26" name="Comam à vontade!" />
+		<text id="coop_desc_long_26" name="Cupcakekittycat8 quer um jantar com muita comida. Ajude!" />
+		<text id="coop_title_27" name="OISH-INCRÍVEL" />
+		<text id="coop_desc_short_27" name="Tão bom!" />
+		<text id="coop_desc_long_27" name="Nao quer servir comida para uma convenção de anime que está acontecendo no Café ao lado. Dê uma mãozinha!" />
+		<text id="coop_title_28" name="COCOAFISSÃO" />
+		<text id="coop_desc_short_28" name="O verdadeiro amor é Chocolate!" />
+		<text id="coop_desc_long_28" name="Nao quer popularizar pratos de chocolate pelo bairro e vai pagar por isso. Por que não participar?" />
 	</coopmission>
 	<dialogs>
 		<text id="dialogwin_achievement_title" name="Conquistas" />
