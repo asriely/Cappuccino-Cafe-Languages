@@ -914,5 +914,5 @@
 <wod id="2202" n="Smoothie" g="Fastfood" t="Greensmoothie" cash="2500" gold="0" friends="0" goldNoFriends="0" releaseDate="0" world="0" events="0" xp="8" level="0" incomePerServing="2" servings="30" color="B1CC28" ratingBonus="40" />
 <wod id="2203" n="Smoothie" g="Fastfood" t="Kiba" cash="0" gold="1" friends="0" goldNoFriends="0" releaseDate="0" world="0" events="0" xp="12" level="0" incomePerServing="3" servings="30" color="E65C8A" ratingBonus="60" />
 <wod id="2204" n="Smoothie" g="Fastfood" t="Pinacolada" cash="0" gold="2" friends="0" goldNoFriends="0" releaseDate="0" world="0" events="0" xp="20" level="0" incomePerServing="4" servings="50" color="EBA600" ratingBonus="80" />
-<wod id="6000" n="Smoothie" g="Fastfood" t="Defensepotion" cash="1500" gold="0" friends="0" goldNoFriends="0" releaseDate="0" world="0" events="0" xp="5" level="0" incomePerServing="1" servings="25" color="60B3D9" ratingBonus="30" />
+<wod id="6000" n="Smoothie" g="Fastfood" t="Defensepotion" cash="1500" gold="0" friends="0" goldNoFriends="0" releaseDate="0" world="0" events="0" xp="5" level="0" incomePerServing="1" servings="25" color="03FCEC" ratingBonus="30" />
 </wodIds>
