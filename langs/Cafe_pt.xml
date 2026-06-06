@@ -503,6 +503,9 @@ Se você estocá-la, as porções existentes serão perdidas!" />
 		<text id="coop_title_35" name="BANQUETE PARA A FAMÍLIA" />
 		<text id="coop_desc_short_35" name="Todo mundo está aqui!" />
 		<text id="coop_desc_long_35" name="Sua família inteira, os amigos dela, seus amigos e as famílias deles estão TODOS indo visitar seu Café e celebrar seus negócios. Deixe-os orgulhosos!" />
+		<text id="coop_title_36" name="WE NEED LOTS OF EGGS!" />
+		<text id="coop_desc_short_36" name="Did they actually come first?" />
+		<text id="coop_desc_long_36" name="Chef Myleeek is conducting research on who came first: the chicken or the egg? Cook dishes with eggs to provide data!" />
 	</coopmission>
 	<dialogs>
 		<text id="dialogwin_achievement_title" name="Conquistas" />
