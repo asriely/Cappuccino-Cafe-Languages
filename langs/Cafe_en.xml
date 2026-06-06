@@ -538,6 +538,10 @@ If you put it into storage, you will lose the remaining portions!"  />
 			<text id="coop_title_35" name="FAMILY FEAST" />
 			<text id="coop_desc_short_35" name="So many guests!" />
 			<text id="coop_desc_long_35" name="Your whole family, their friends, your friends and their families are ALL coming to your Café to celebrate your business. Do them proud!" />
+
+			<text id="coop_title_36" name="WE NEED LOTS OF EGGS!" />
+			<text id="coop_desc_short_36" name="Did they actually come first?" />
+			<text id="coop_desc_long_36" name="Chef Myleeek is conducting research on who came first: the chicken or the egg? Cook dishes with eggs to provide data!" />
 		</coopmission>
 		<dialogs>
 			<text id="dialogwin_achievement_title" name="Achievements"  />
