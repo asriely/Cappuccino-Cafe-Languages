@@ -700,7 +700,7 @@
 <wod id="2242" n="Basic" g="Dish" t="Carrotcake" events="0" xp="2283" incomePerServing="1" servings="2450" duration="960" level="30" dishcategory="0" requirements="1338+1#1312+1#1342+1#1307+1#1330+1#1408+1" />
 
 <wod id="1227" n="Basic" g="Dish" t="Strawberrycake" events="0" xp="1324" incomePerServing="1" servings="1040" duration="480" level="31" dishcategory="0" requirements="1328+1#1312+1#1308+1#1408+1" />
-<wod id="1257" n="Basic" g="Dish" t="Pridecupcakes" events="0" xp="25" incomePerServing="25" servings="40" duration="2" level="4" dishcategory="0" requirements="1346+1#1408+1" />
+<wod id="1257" n="Basic" g="Dish" t="Pridecupcakes" events="0" xp="25" incomePerServing="100" servings="10" duration="1" level="4" dishcategory="0" requirements="1346+1#1408+1" />
 
 <wod id="1245" n="Basic" g="Dish" t="Chickensoup" events="0" xp="2670" incomePerServing="1" servings="2500" duration="1140" level="32" dishcategory="2" requirements="1301+1#1306+1#1318+1#1319+1#1406+1" />
 <wod id="1260" n="Basic" g="Dish" t="Ratatouille" events="0" xp="2023" incomePerServing="1" servings="1900" duration="780" level="32" dishcategory="1" requirements="1327+1#1310+1#1318+1#1308+1#1317+1#1407+1" />
